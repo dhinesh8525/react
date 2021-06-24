@@ -1,0 +1,18 @@
+.pending-table{
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-collapse: collapse;
+    width: 100%
+}
+.pending-table th {
+    padding: 1em;
+}
+.pending-table th p{
+    font-weight: bold;
+}
+.pending-table tr{
+    background-color: #F6F5F5;
+}
+.pending-table td {
+    padding: 1em;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.see-more {
+    color: #648CCB;
+    display: inline;
+}
+
+.see-more:hover {
+    cursor: pointer;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+.sidebar-link {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-decoration: none;
+    color: #4A4A4A;
+}
+
+.sidebar-link-selected {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-decoration: none;
+    color: #0E68B6;
+    font-weight: bold;
+}

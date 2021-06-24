@@ -1,0 +1,31 @@
+#amount-field::-webkit-outer-spin-button,
+#amount-field::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.investment-button-selected {
+    background-color: #3F8DD5 !important;
+    color: #FFFFFF !important;
+}
+
+.investment-button-selected:hover {
+    background-color: #3F8DD5 !important;
+}
+
+.modified-scroll::-webkit-scrollbar {
+    width: 6px;
+    border-radius: 3px;
+  }
+  
+  /* Track */
+  .modified-scroll::-webkit-scrollbar-track {
+    background: #ECECEC;
+    border-radius: 3px;
+  }
+  
+  /* Handle */
+  .modified-scroll::-webkit-scrollbar-thumb {
+    background: #ABABAB;
+    border-radius: 3px;
+  }

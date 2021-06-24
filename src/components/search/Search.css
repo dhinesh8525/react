@@ -1,0 +1,8 @@
+.input-search-icon > svg {
+    filter: invert();
+}
+
+.input-search-icon {
+    align-self: flex-end;
+    padding: 0.6em;
+}

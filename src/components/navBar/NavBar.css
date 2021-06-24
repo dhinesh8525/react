@@ -1,0 +1,31 @@
+.navbar-link {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 1em;
+    border: solid 1px #979797;
+}
+
+.navbar-link:hover {
+    background-color: #EBEBEB;
+    color: black;
+}
+
+.navbar-link-selected {
+    color: #253773;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    padding: 1em;
+    border: solid 1px #979797;
+}
+
+.navbar-link-selected.logo-link > div > p > svg {
+    filter: brightness(50%) sepia(100) saturate(100) hue-rotate(195deg);
+}
+
+:not(.navbar-link-selected).logo-link:hover > div > p > svg {
+    filter: invert(1);
+}
+
+.account-link {
+    background-color: #30476F;
+}

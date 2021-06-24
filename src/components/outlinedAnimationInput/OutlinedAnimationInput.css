@@ -1,0 +1,19 @@
+#first-input::-webkit-outer-spin-button,
+#first-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#animation-input::-webkit-outer-spin-button,
+#animation-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#first-input,#animation-input {
+    font-size: 1.55rem; 
+    height: 20px;
+    width: 16px;
+    color: #312A42; 
+    text-align: center;
+}
